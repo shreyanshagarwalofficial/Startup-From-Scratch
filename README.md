@@ -537,6 +537,7 @@ A practical path from idea to startup:
 - [Product Hunt](https://www.producthunt.com/) --- Discover newly launched products, emerging categories, and maker projects.
 - [BetaList](https://betalist.com/) --- Find early-stage startups and pre-launch products.
 - [BetaPage](https://betapage.co/) --- Discover startups, beta products, and new technology businesses.
+- [SitePatent](https://sitepatent.com/) --- Browse startups, tools, and online products by category and tech stack.
 - [TechCrunch](https://techcrunch.com/) --- Follow startup launches, emerging companies, and technology markets.
 - [Tech.eu](https://tech.eu/) --- Track European startups, innovation, and technology businesses.
 - [EU-Startups](https://www.eu-startups.com/) --- Discover European startups and emerging business models.
