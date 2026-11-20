@@ -2675,6 +2675,7 @@ A practical path from idea to startup:
 - [Y Combinator Startup Library](https://www.ycombinator.com/library) --- Founder guidance on fundraising, pitch decks, and startup growth.
 - [Sequoia Capital](https://www.sequoiacap.com/) --- Startup fundraising resources and pitch-deck guidance.
 - [OpenVC Resources](https://www.openvc.app/) --- Fundraising resources and investor research.
+- [DDScore](https://www.ddscore.ai/for-founder/) --- First-pass due diligence for private companies, comparing pitch materials with supporting documents and public sources to flag claims worth checking before fundraising.
 - [DocSend Startup Fundraising](https://www.docsend.com/) --- Pitch-deck sharing and investor engagement tracking.
 - [Visible](https://visible.vc/) --- Investor updates and fundraising relationship management.
 - [FounderSuite](https://foundersuite.com/) --- Fundraising CRM and investor outreach management.
